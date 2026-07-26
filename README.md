@@ -1,4 +1,4 @@
-# Departamento de Control Biomec UMA
+# Control. Biomec UMA
 
 Biomec es una iniciativa de la Universidad de Málaga orientada al desarrollo de soluciones de ingeniería aplicadas a prótesis de mano electrónicas. El proyecto parte del estudio de señales electromiográficas (EMG), obtenidas a partir de la actividad muscular, para convertirlas en información útil de control.
 
