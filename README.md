@@ -1,6 +1,4 @@
-# Biomec Control
-
-Placa adaptadora intermedia entre la PCB del ADS1198 y un ESP32 compatible.
+# Placa adaptadora intermedia entre la PCB del ADS1198 y un ESP32 compatible.
 
 ## Resumen
 
