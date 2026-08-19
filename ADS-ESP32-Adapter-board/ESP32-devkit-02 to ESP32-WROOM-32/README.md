@@ -1,6 +1,6 @@
 # Placa adaptadora: ESP32-DevKit-C3-02 → ESP32-WROOM-32
 
-<img src="renders/PCB%20front.png" alt="PCB front" width="600" />
+<img src="renders/Captura%20de%20pantalla%202026-08-19%20163600.png" alt="Render de la PCB" width="600" />
 
 ## Resumen ejecutivo
 
