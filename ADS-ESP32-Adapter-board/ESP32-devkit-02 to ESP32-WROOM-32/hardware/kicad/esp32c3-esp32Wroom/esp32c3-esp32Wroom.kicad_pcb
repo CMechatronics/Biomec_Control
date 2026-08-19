@@ -89,7 +89,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(grid_origin 115.6 97.403444)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
@@ -1411,7 +1410,7 @@
 	(footprint "kicad:biomecumabanner"
 		(layer "F.Cu")
 		(uuid "67dd1ab2-d701-40da-bc1e-fe53fd1675ab")
-		(at 132.05 93.703444)
+		(at 132.05 94.403444)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "F.SilkS")

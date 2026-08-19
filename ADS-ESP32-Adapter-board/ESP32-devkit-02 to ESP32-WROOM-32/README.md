@@ -1,5 +1,7 @@
 # Placa adaptadora: ESP32-DevKit-C3-02 → ESP32-WROOM-32
 
+![PCB front](renders/PCB%20front.png)
+
 ## Resumen ejecutivo
 
 Este directorio contiene el diseño y documentación de la placa adaptadora que permite migrar del ESP32-C3 DevKitC-02 al ESP32-WROOM-32, manteniendo compatibilidad total con la interfaz del ADS1198 y reduciendo la dependencia de hardware específico.
