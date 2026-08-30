@@ -2483,6 +2483,58 @@
 		)
 		(uuid "13e5c994-5854-4780-a5e6-5560f946e9f0")
 	)
+	(text "JTAG"
+		(exclude_from_sim no)
+		(at 54.61 18.796 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 204 102 0 1)
+			)
+		)
+		(uuid "1b3d3686-ecc5-48fe-8fbf-7af5f11ce4f6")
+	)
+	(text "GND"
+		(exclude_from_sim no)
+		(at 60.198 18.796 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "20575c75-af8b-4e2d-a08f-f5d63e906923")
+	)
+	(text "GPIO"
+		(exclude_from_sim no)
+		(at 48.006 18.796 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 0 0 194 1)
+			)
+		)
+		(uuid "27d2461d-b42d-4e34-8435-d9ef9d67cef3")
+	)
+	(text "Source"
+		(exclude_from_sim no)
+		(at 40.132 18.796 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 194 0 0 1)
+			)
+		)
+		(uuid "76b4e9f3-dfc6-4393-a2d0-487c2a2659ed")
+	)
 	(text "ESP32-Devkit-V1"
 		(exclude_from_sim no)
 		(at 98.044 28.702 0)
@@ -2502,6 +2554,19 @@
 			)
 		)
 		(uuid "c32fcb74-7df5-468d-ad4f-4a1d1b83dea2")
+	)
+	(text "SPI"
+		(exclude_from_sim no)
+		(at 32.766 19.05 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 0 132 0 1)
+			)
+		)
+		(uuid "e5414873-5860-4bb3-9671-85b10472f1e9")
 	)
 	(junction
 		(at 119.38 110.49)
